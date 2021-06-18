@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_OddNumber", "Array_Od
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Multiplicaton", "..\Array_Multiplicaton\Array_Multiplicaton.csproj", "{CFD7891F-B806-451C-952D-88EE15AA2501}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_ReverseOder", "..\Array_ReverseOder\Array_ReverseOder.csproj", "{71FE41B8-6F9A-4A21-8B3E-88DC6A79D1A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_ReverseOder", "..\Array_ReverseOder\Array_ReverseOder.csproj", "{71FE41B8-6F9A-4A21-8B3E-88DC6A79D1A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Zero", "..\Array_Zero\Array_Zero.csproj", "{E77B29C9-33F3-4F4B-9352-38A4723EEA64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Zero", "..\Array_Zero\Array_Zero.csproj", "{E77B29C9-33F3-4F4B-9352-38A4723EEA64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
